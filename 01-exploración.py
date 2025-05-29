@@ -8,7 +8,7 @@ sns.set(style="whitegrid")
 plt.rcParams["figure.figsize"] = (10, 6)
 
 # Cargar el dataset
-df = pd.read_csv("AirQualityUCI_5faltantes.csv", sep=';', decimal=',')
+df = pd.read_csv("dataset.csv", sep=';', decimal=',')
 
 # Eliminar columnas completamente vacías
 df.dropna(axis=1, how='all', inplace=True)
