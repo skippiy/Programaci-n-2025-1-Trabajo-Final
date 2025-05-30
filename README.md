@@ -59,6 +59,31 @@ El conjunto de datos contiene:
 - Scikit-learn for modeling, validation, and evaluation
 - Visual Studio Code
 
+
+## Descripción de los Archivos del Repositorio
+
+- **README.md**  
+  Archivo Markdown con la descripción breve del proyecto.
+
+- **01-exploración.ipynb**  
+  Muestra cómo se carga el dataset y se realiza el análisis exploratorio de los datos.  
+  Esta exploración no tiene que ser exhaustiva, solo debe mostrar que eres capaz de cargar los datos e inspeccionarlos.
+
+- **02-preprocesado.ipynb**  
+  Muestra cómo se carga el archivo de datos y se realizan las operaciones de limpieza y preprocesado necesarias.
+
+- **03-modelo1.ipynb** y **04-modelo2.ipynb**  
+  Muestran, respectivamente, las dos soluciones planteadas y la evaluación de los modelos (curvas de aprendizaje, matrices de confusión, etc.).
+
+- **05-comparación.ipynb**  
+  Muestra la estrategia de comparación entre los dos modelos implementados, usando análisis de concordancia.
+
+- **06-dataset.csv**  
+  Archivo con los datos utilizados.
+
+- **07-informe.pdf**  
+  Archivo que resume toda la estrategia de solución planteada, los resultados obtenidos y las conclusiones alcanzadas.
+
 ## Citas
 ``` text
 De Vito, S., Massera, E., Piga, M., Martinotto, L., & Di Francia, G. (2008). On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario. Sensors and Actuators B: Chemical, 129(2), 750-757.
