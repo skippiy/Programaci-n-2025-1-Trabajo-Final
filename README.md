@@ -36,8 +36,6 @@ El conjunto de datos contiene:
 - **Desafíos presentes en los sensores:** Sensibilidad cruzada, deriva de concepto y deriva del sensor (como se describe en De Vito et al., *Sensors and Actuators B*, Vol. 129, No. 2, 2008).
 - **Datos faltantes:** Marcados con el valor `-200`.
 
-**Nota:** El conjunto de datos está destinado exclusivamente a **fines de investigación**. El uso comercial está estrictamente prohibido.
-
 ---
 
 ##  Estructura del repositorio
@@ -53,12 +51,6 @@ El conjunto de datos contiene:
 ├── 07-informe.pdf          
 └── README.md               
 ````
-## Herramientas y recursos
-- Python 3.10+
-- Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn for modeling, validation, and evaluation
-- Visual Studio Code
-
 
 ## Descripción de los Archivos del Repositorio
 
@@ -84,6 +76,12 @@ El conjunto de datos contiene:
 - **07-informe.pdf**  
   Archivo que resume toda la estrategia de solución planteada, los resultados obtenidos y las conclusiones alcanzadas.
 
+## Herramientas y recursos
+- Python 3.10+
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn for modeling, validation, and evaluation
+- Visual Studio Code
+- 
 ## Citas
 ``` text
 De Vito, S., Massera, E., Piga, M., Martinotto, L., & Di Francia, G. (2008). On field calibration of an electronic nose for benzene estimation in an urban pollution monitoring scenario. Sensors and Actuators B: Chemical, 129(2), 750-757.
